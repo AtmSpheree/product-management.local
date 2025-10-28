@@ -1,7 +1,7 @@
 
 # product-management.local
 
-A web application for products management
+A web application for product management
 
 ## Demo
 ![Preview of the application](/screen.png)
